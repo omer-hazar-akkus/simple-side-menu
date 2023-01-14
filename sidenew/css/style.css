@@ -1,0 +1,40 @@
+.container .ban {
+  font-size: 20px;
+  display: block;
+  height: 25px;
+  width: 150px;
+  border-style: outset;
+  transform: skewX(-10deg);
+}
+.blue {
+  transition: 0.5s;
+  transform: skewX(-10deg);
+  position: absolute;
+  height: 25px;
+  width: 10px;
+  background-color: aqua;
+}
+.a {
+  top: 19px;
+}
+.b {
+  top: 50px;
+}
+.c {
+  top: 81px;
+}
+.d {
+  top: 112px;
+}
+.e {
+  top: 143px;
+}
+.f {
+  top: 174px;
+}
+.aktif {
+  width: 155px;
+}
+div.a:hover #maindiv {
+  width: 100px;
+}
